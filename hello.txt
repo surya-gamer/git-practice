@@ -1,3 +1,4 @@
 hello git 
 welcome to git 
 new feature 
+changed direclty on github
